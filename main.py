@@ -13,7 +13,7 @@ st.set_page_config(page_title="🩺 Obesity Predictor 🏥", page_icon="🧬", l
 # Set header background image and title
 def set_header_background(image_path):
     image = Image.open(image_path)
-    st.image(image, use_column_width=True)
+    st.image(image, use_container_width=True)
     st.markdown("<h3 style='text-align: center; color: #004466;'>🧑🏼‍⚕️ Obesity Predictor with Personalized Suggestions 🧬</h3>", unsafe_allow_html=True)
 
 # Set Header Background Image
