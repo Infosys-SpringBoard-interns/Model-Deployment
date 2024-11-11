@@ -24,4 +24,4 @@ def display_about():
     #- **Healthcare Consultants**: Provided input on healthcare-related features and tailored health suggestions.
     #""")
 
-    st.image("images/working to healthier.webp", use_column_width=True, caption="Our team dedicated to building a healthier tomorrow")
+    st.image("images/working to healthier.webp", use_container_width=True, caption="Our team dedicated to building a healthier tomorrow")
