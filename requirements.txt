@@ -6,3 +6,4 @@ pandas
 numpy
 pickle
 Pillow
+pickle-mixin
