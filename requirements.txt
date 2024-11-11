@@ -1,9 +1,12 @@
 streamlit
+numpy
+pandas
+Pillow
+scikit-learn
+torch
 pytorch-tabnet
 langchain
 langchain-google-genai
-pandas
-numpy
-pickle
-Pillow
+openai
+protobuf
 pickle-mixin
